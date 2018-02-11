@@ -3,7 +3,7 @@
     <Configuration>
       <Name>Development</Name>
       <Options>
-        <TargetServer>localhost</TargetServer>
+        <TargetServer>RAN-THINKPAD\SSIS_SSAS_ML</TargetServer>
         <TargetDatabase>SSAS</TargetDatabase>
         <StartObject>
           <ObjectId></ObjectId>
